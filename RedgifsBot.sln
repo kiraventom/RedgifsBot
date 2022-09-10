@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedgifsBot", "RedgifsBot\RedgifsBot.csproj", "{64206BE5-A908-4F7C-B1C6-F791B2FAF203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64206BE5-A908-4F7C-B1C6-F791B2FAF203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64206BE5-A908-4F7C-B1C6-F791B2FAF203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64206BE5-A908-4F7C-B1C6-F791B2FAF203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64206BE5-A908-4F7C-B1C6-F791B2FAF203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A23AF9-E8C9-42F1-8189-C35D4FA86AA9}
+	EndGlobalSection
+EndGlobal
